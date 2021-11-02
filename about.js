@@ -8,8 +8,12 @@ function handleSubmit(evt) {
 	console.log('form submit');
 
 }
-
-test.addEventListener("mouseover", function( event )
-let form = document.querySelector('form#contact');
+HTMLElement.addEventListener(
+	'mouseover',
+	() => {
+		alert()
+	}
+	
+	)
 
 form.addEventListener('submit', handleSubmit);
