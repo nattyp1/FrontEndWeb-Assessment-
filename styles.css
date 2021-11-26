@@ -36,3 +36,21 @@ input {
 img {
 	max-width: 300px;
 }
+button.color {
+	background-color: orange;
+	color: yellow; 
+	height:200px;
+    width:200px;
+  }
+button.place {
+	background-color: orange;
+	color: yellow;
+	height:200px;
+    width:200px;
+  }
+button.ritual {
+	background-color: orange;
+	color: yellow;
+	height:200px;
+    width:200px;
+  }
